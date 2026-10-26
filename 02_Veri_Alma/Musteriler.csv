@@ -1,0 +1,501 @@
+﻿MusteriID;AdSoyad;Cinsiyet;Yas;Segment;Sehir;Bolge;KazanmaTarihi;KazanmaKanali
+C0001;Burak Aydın;Erkek;51;Kurumsal;Antalya;Akdeniz;07.01.2021;Organik
+C0002;Gökçe Öztürk;Kadın;32;Bireysel;Samsun;Karadeniz;15.12.2024;Mağaza
+C0003;Burak Kaya;Erkek;58;Kurumsal;Antalya;Akdeniz;19.08.2022;Google Ads
+C0004;İrem Çelik;Kadın;46;Kurumsal;İstanbul;Marmara;16.04.2024;Referans
+C0005;Gökçe Şahin;Erkek;55;KOBİ;Adana;Akdeniz;01.09.2023;Referans
+C0006;Selin Kaya;Kadın;42;Kurumsal;Konya;İç Anadolu;08.03.2022;Mağaza
+C0007;Kerem Aydın;Erkek;26;Bireysel;Konya;İç Anadolu;06.05.2022;Sosyal Medya
+C0008;Selin Demir;Kadın;41;Bireysel;Ankara;İç Anadolu;27.09.2021;Sosyal Medya
+C0009;Selin Özdemir;Erkek;36;KOBİ;Bursa;Marmara;18.07.2022;Google Ads
+C0010;Emre Kurt;Kadın;21;KOBİ;Diyarbakır;Güneydoğu Anadolu;21.07.2023;Sosyal Medya
+C0011;Selin Demir;Erkek;43;Bireysel;Ankara;İç Anadolu;08.07.2023;Google Ads
+C0012;Selin Doğan;Kadın;21;Kurumsal;Trabzon;Karadeniz;18.07.2021;Sosyal Medya
+C0013;İrem Kılıç;Erkek;27;Kurumsal;Gaziantep;Güneydoğu Anadolu;11.01.2024;Sosyal Medya
+C0014;Emre Aydın;Kadın;27;KOBİ;İzmir;Ege;02.07.2021;Referans
+C0015;Serkan Koç;Erkek;45;KOBİ;Ankara;İç Anadolu;01.11.2024;Referans
+C0016;Mert Aydın;Kadın;48;KOBİ;Trabzon;Karadeniz;24.11.2021;Google Ads
+C0017;Gökçe Özdemir;Erkek;33;Kurumsal;İzmir;Ege;06.12.2024;Referans
+C0018;Kerem Kaya;Kadın;52;KOBİ;Erzurum;Doğu Anadolu;14.11.2023;Sosyal Medya
+C0019;İrem Aydın;Erkek;59;Kurumsal;Ankara;İç Anadolu;15.09.2022;Sosyal Medya
+C0020;Burak Aydın;Kadın;56;KOBİ;Erzurum;Doğu Anadolu;19.02.2024;Organik
+C0021;Deniz Öztürk;Erkek;51;Kurumsal;Diyarbakır;Güneydoğu Anadolu;24.07.2022;Organik
+C0022;Selin Aslan;Kadın;36;Bireysel;Konya;İç Anadolu;18.01.2024;Organik
+C0023;Kerem Yılmaz;Erkek;47;Bireysel;Antalya;Akdeniz;27.02.2023;Google Ads
+C0024;Ece Kılıç;Kadın;43;Kurumsal;Samsun;Karadeniz;22.10.2023;Organik
+C0025;Mehmet Şahin;Erkek;42;Bireysel;İzmir;Ege;20.04.2023;Google Ads
+C0026;Serkan Arslan;Kadın;24;KOBİ;Antalya;Akdeniz;24.10.2021;Google Ads
+C0027;Ayşe Öztürk;Erkek;33;Bireysel;İzmir;Ege;27.09.2023;Google Ads
+C0028;Elif Kurt;Kadın;26;Bireysel;Samsun;Karadeniz;09.02.2023;Google Ads
+C0029;İrem Aydın;Erkek;34;Kurumsal;Konya;İç Anadolu;05.12.2021;Organik
+C0030;Mehmet Yıldız;Kadın;24;Bireysel;Ankara;İç Anadolu;21.12.2024;Google Ads
+C0031;Mert Arslan;Erkek;21;KOBİ;İstanbul;Marmara;14.07.2023;Sosyal Medya
+C0032;Zeynep Demir;Kadın;45;Kurumsal;İstanbul;Marmara;04.01.2021;Google Ads
+C0033;Gökçe Kaya;Erkek;39;Kurumsal;Konya;İç Anadolu;21.07.2023;Referans
+C0034;Nazlı Yıldız;Kadın;47;KOBİ;Konya;İç Anadolu;23.08.2021;Google Ads
+C0035;Onur Özdemir;Erkek;32;KOBİ;İzmir;Ege;03.08.2021;Organik
+C0036;Burak Doğan;Kadın;24;KOBİ;Erzurum;Doğu Anadolu;09.10.2022;Google Ads
+C0037;Serkan Özdemir;Erkek;38;Kurumsal;Gaziantep;Güneydoğu Anadolu;19.06.2024;Google Ads
+C0038;Elif Demir;Kadın;52;Bireysel;Antalya;Akdeniz;25.04.2023;Organik
+C0039;Elif Doğan;Erkek;41;KOBİ;Bursa;Marmara;06.04.2022;Mağaza
+C0040;Kerem Aydın;Kadın;57;KOBİ;Antalya;Akdeniz;09.02.2023;Google Ads
+C0041;Derya Yılmaz;Erkek;57;Bireysel;Trabzon;Karadeniz;25.06.2023;Mağaza
+C0042;Can Demir;Kadın;28;Kurumsal;İzmir;Ege;08.10.2024;Referans
+C0043;Can Çelik;Erkek;31;KOBİ;İzmir;Ege;12.01.2022;Referans
+C0044;Ayşe Doğan;Kadın;22;Bireysel;Ankara;İç Anadolu;15.04.2022;Sosyal Medya
+C0045;Mehmet Doğan;Erkek;29;Kurumsal;Konya;İç Anadolu;16.12.2024;Google Ads
+C0046;Zeynep Kaya;Kadın;48;KOBİ;İstanbul;Marmara;24.06.2024;Google Ads
+C0047;Elif Arslan;Erkek;44;KOBİ;Konya;İç Anadolu;11.10.2023;Sosyal Medya
+C0048;Serkan Kılıç;Kadın;32;Bireysel;Erzurum;Doğu Anadolu;16.11.2024;Google Ads
+C0049;Ayşe Aydın;Erkek;30;Kurumsal;Bursa;Marmara;24.02.2023;Organik
+C0050;İrem Özdemir;Kadın;29;Kurumsal;Diyarbakır;Güneydoğu Anadolu;15.01.2022;Sosyal Medya
+C0051;Gökçe Öztürk;Erkek;36;Kurumsal;Antalya;Akdeniz;11.12.2021;Mağaza
+C0052;Elif Özdemir;Kadın;31;KOBİ;Samsun;Karadeniz;12.10.2021;Mağaza
+C0053;Ayşe Yıldız;Erkek;32;Bireysel;Ankara;İç Anadolu;09.03.2022;Organik
+C0054;Derya Doğan;Kadın;48;KOBİ;Konya;İç Anadolu;04.01.2023;Referans
+C0055;Elif Çelik;Erkek;29;Bireysel;İzmir;Ege;08.05.2022;Google Ads
+C0056;Nazlı Koç;Kadın;50;Kurumsal;Bursa;Marmara;10.06.2022;Sosyal Medya
+C0057;Ece Şahin;Erkek;46;Kurumsal;İzmir;Ege;04.04.2021;Google Ads
+C0058;Nazlı Çelik;Kadın;50;Kurumsal;Ankara;İç Anadolu;17.11.2021;Google Ads
+C0059;Ayşe Aydın;Erkek;23;Bireysel;Trabzon;Karadeniz;25.09.2024;Referans
+C0060;Ece Aslan;Kadın;37;Kurumsal;Diyarbakır;Güneydoğu Anadolu;27.01.2023;Organik
+C0061;Ahmet Yılmaz;Erkek;52;Kurumsal;Konya;İç Anadolu;07.11.2022;Referans
+C0062;Burak Aydın;Kadın;20;KOBİ;Bursa;Marmara;04.05.2023;Sosyal Medya
+C0063;Ahmet Özdemir;Erkek;36;Bireysel;Ankara;İç Anadolu;26.03.2021;Organik
+C0064;Kerem Koç;Kadın;23;Kurumsal;Adana;Akdeniz;27.04.2022;Google Ads
+C0065;Mehmet Kaya;Erkek;25;Kurumsal;Antalya;Akdeniz;23.08.2023;Sosyal Medya
+C0066;İrem Kaya;Kadın;37;Kurumsal;Bursa;Marmara;26.04.2023;Referans
+C0067;Derya Kılıç;Erkek;59;Bireysel;Diyarbakır;Güneydoğu Anadolu;19.12.2022;Sosyal Medya
+C0068;Kerem Şahin;Kadın;30;KOBİ;Erzurum;Doğu Anadolu;22.07.2022;Sosyal Medya
+C0069;Mehmet Demir;Erkek;32;Bireysel;Trabzon;Karadeniz;26.12.2021;Referans
+C0070;Ahmet Özdemir;Kadın;50;Bireysel;Diyarbakır;Güneydoğu Anadolu;25.09.2021;Sosyal Medya
+C0071;Onur Demir;Erkek;34;KOBİ;Antalya;Akdeniz;07.05.2021;Mağaza
+C0072;Nazlı Şahin;Kadın;29;Kurumsal;Samsun;Karadeniz;12.04.2021;Sosyal Medya
+C0073;Selin Öztürk;Erkek;21;Kurumsal;Gaziantep;Güneydoğu Anadolu;03.10.2023;Sosyal Medya
+C0074;Ahmet Aydın;Kadın;21;Kurumsal;İzmir;Ege;14.10.2022;Organik
+C0075;Serkan Çelik;Erkek;46;Bireysel;İstanbul;Marmara;21.01.2021;Sosyal Medya
+C0076;Onur Arslan;Kadın;36;Bireysel;Trabzon;Karadeniz;25.11.2023;Organik
+C0077;Mehmet Özdemir;Erkek;58;Kurumsal;Gaziantep;Güneydoğu Anadolu;08.08.2023;Mağaza
+C0078;İrem Aslan;Kadın;31;KOBİ;Adana;Akdeniz;21.03.2022;Referans
+C0079;İrem Yıldız;Erkek;24;Kurumsal;Konya;İç Anadolu;10.05.2024;Referans
+C0080;Zeynep Aslan;Kadın;33;KOBİ;Trabzon;Karadeniz;01.02.2024;Referans
+C0081;Gökçe Özdemir;Erkek;34;Kurumsal;Samsun;Karadeniz;12.01.2022;Google Ads
+C0082;Mehmet Yılmaz;Kadın;28;KOBİ;Ankara;İç Anadolu;23.10.2021;Sosyal Medya
+C0083;Elif Koç;Erkek;55;Kurumsal;İstanbul;Marmara;05.10.2023;Organik
+C0084;Elif Arslan;Kadın;52;KOBİ;Konya;İç Anadolu;23.03.2023;Sosyal Medya
+C0085;Burak Arslan;Erkek;44;Bireysel;Erzurum;Doğu Anadolu;13.09.2022;Organik
+C0086;Kerem Kılıç;Kadın;38;Bireysel;Gaziantep;Güneydoğu Anadolu;14.06.2023;Organik
+C0087;Ahmet Koç;Erkek;47;Bireysel;İzmir;Ege;11.08.2021;Referans
+C0088;Elif Aslan;Kadın;42;Bireysel;Diyarbakır;Güneydoğu Anadolu;09.06.2022;Google Ads
+C0089;Can Kaya;Erkek;22;Bireysel;Samsun;Karadeniz;19.04.2021;Google Ads
+C0090;Mert Kaya;Kadın;40;Kurumsal;Erzurum;Doğu Anadolu;11.12.2023;Mağaza
+C0091;İrem Öztürk;Erkek;27;KOBİ;Diyarbakır;Güneydoğu Anadolu;06.11.2022;Referans
+C0092;Ahmet Yıldız;Kadın;30;KOBİ;Gaziantep;Güneydoğu Anadolu;22.02.2023;Mağaza
+C0093;Ayşe Koç;Erkek;59;Kurumsal;Konya;İç Anadolu;19.03.2023;Sosyal Medya
+C0094;Serkan Özdemir;Kadın;38;Kurumsal;Erzurum;Doğu Anadolu;17.04.2021;Organik
+C0095;Deniz Koç;Erkek;60;KOBİ;Konya;İç Anadolu;12.07.2024;Referans
+C0096;Mert Koç;Kadın;25;KOBİ;Adana;Akdeniz;26.02.2022;Sosyal Medya
+C0097;Mert Kaya;Erkek;48;KOBİ;Trabzon;Karadeniz;06.10.2024;Sosyal Medya
+C0098;Derya Öztürk;Kadın;53;Bireysel;İzmir;Ege;14.11.2023;Referans
+C0099;Serkan Yıldız;Erkek;34;Bireysel;Samsun;Karadeniz;21.02.2023;Organik
+C0100;Ece Aslan;Kadın;31;KOBİ;İzmir;Ege;24.02.2021;Google Ads
+C0101;Ayşe Arslan;Erkek;21;Kurumsal;Samsun;Karadeniz;22.04.2023;Sosyal Medya
+C0102;Serkan Aydın;Kadın;48;Bireysel;Diyarbakır;Güneydoğu Anadolu;19.02.2023;Organik
+C0103;Can Şahin;Erkek;23;Bireysel;Trabzon;Karadeniz;01.11.2022;Sosyal Medya
+C0104;İrem Öztürk;Kadın;41;KOBİ;Bursa;Marmara;16.01.2023;Google Ads
+C0105;Kerem Aydın;Erkek;56;KOBİ;Diyarbakır;Güneydoğu Anadolu;08.09.2023;Sosyal Medya
+C0106;Burak Doğan;Kadın;21;KOBİ;Konya;İç Anadolu;25.07.2021;Organik
+C0107;Mehmet Özdemir;Erkek;27;KOBİ;Trabzon;Karadeniz;04.01.2022;Mağaza
+C0108;Nazlı Yıldız;Kadın;34;Kurumsal;Erzurum;Doğu Anadolu;03.02.2021;Sosyal Medya
+C0109;Ece Arslan;Erkek;27;Kurumsal;İstanbul;Marmara;18.11.2021;Sosyal Medya
+C0110;Mert Aydın;Kadın;34;Kurumsal;Gaziantep;Güneydoğu Anadolu;10.02.2022;Google Ads
+C0111;Mehmet Şahin;Erkek;25;Kurumsal;Ankara;İç Anadolu;15.03.2023;Referans
+C0112;Elif Özdemir;Kadın;29;Kurumsal;Adana;Akdeniz;01.09.2023;Google Ads
+C0113;Deniz Çelik;Erkek;58;Kurumsal;Antalya;Akdeniz;25.06.2023;Mağaza
+C0114;Emre Aslan;Kadın;26;Bireysel;İzmir;Ege;24.08.2021;Mağaza
+C0115;Kerem Öztürk;Erkek;60;Kurumsal;Gaziantep;Güneydoğu Anadolu;01.09.2022;Sosyal Medya
+C0116;Kerem Kılıç;Kadın;39;KOBİ;Erzurum;Doğu Anadolu;25.02.2023;Sosyal Medya
+C0117;Deniz Doğan;Erkek;51;KOBİ;Samsun;Karadeniz;08.07.2022;Sosyal Medya
+C0118;Onur Özdemir;Kadın;53;Kurumsal;Gaziantep;Güneydoğu Anadolu;02.01.2022;Referans
+C0119;Ece Kurt;Erkek;52;KOBİ;Ankara;İç Anadolu;12.05.2024;Organik
+C0120;Kerem Özdemir;Kadın;41;Kurumsal;Adana;Akdeniz;05.02.2021;Google Ads
+C0121;Can Yıldız;Erkek;41;Kurumsal;Samsun;Karadeniz;01.09.2023;Google Ads
+C0122;Kerem Kurt;Kadın;35;Kurumsal;Trabzon;Karadeniz;20.12.2024;Organik
+C0123;Zeynep Demir;Erkek;43;Kurumsal;Samsun;Karadeniz;25.12.2021;Mağaza
+C0124;Burak Koç;Kadın;58;KOBİ;Ankara;İç Anadolu;14.07.2023;Sosyal Medya
+C0125;Onur Kaya;Erkek;38;Kurumsal;İzmir;Ege;25.07.2022;Mağaza
+C0126;Ahmet Şahin;Kadın;60;Kurumsal;Adana;Akdeniz;05.06.2024;Sosyal Medya
+C0127;Serkan Öztürk;Erkek;34;KOBİ;Antalya;Akdeniz;09.09.2022;Mağaza
+C0128;Mert Kurt;Kadın;53;Bireysel;Adana;Akdeniz;08.10.2022;Referans
+C0129;Ayşe Yılmaz;Erkek;36;Kurumsal;Adana;Akdeniz;20.06.2024;Organik
+C0130;Zeynep Yılmaz;Kadın;20;KOBİ;Adana;Akdeniz;10.12.2024;Organik
+C0131;Deniz Şahin;Erkek;52;Bireysel;Adana;Akdeniz;24.03.2022;Google Ads
+C0132;Burak Şahin;Kadın;39;Kurumsal;Samsun;Karadeniz;05.11.2021;Google Ads
+C0133;Emre Özdemir;Erkek;52;Bireysel;Samsun;Karadeniz;22.11.2023;Sosyal Medya
+C0134;Mehmet Kılıç;Kadın;26;Kurumsal;İstanbul;Marmara;24.12.2021;Google Ads
+C0135;Derya Kurt;Erkek;31;Bireysel;Antalya;Akdeniz;18.11.2021;Referans
+C0136;Onur Kurt;Kadın;28;Kurumsal;Erzurum;Doğu Anadolu;01.12.2024;Organik
+C0137;Ceren Doğan;Erkek;32;Bireysel;Ankara;İç Anadolu;05.08.2024;Mağaza
+C0138;Elif Demir;Kadın;30;Kurumsal;İstanbul;Marmara;19.02.2021;Organik
+C0139;Serkan Kurt;Erkek;49;Kurumsal;Samsun;Karadeniz;08.06.2023;Organik
+C0140;Ayşe Yılmaz;Kadın;54;Kurumsal;Konya;İç Anadolu;22.01.2021;Google Ads
+C0141;Selin Aslan;Erkek;52;Bireysel;Ankara;İç Anadolu;25.01.2023;Mağaza
+C0142;Mehmet Çelik;Kadın;20;KOBİ;Gaziantep;Güneydoğu Anadolu;08.12.2023;Referans
+C0143;İrem Çelik;Erkek;34;Kurumsal;Gaziantep;Güneydoğu Anadolu;16.07.2023;Sosyal Medya
+C0144;Zeynep Yıldız;Kadın;32;Kurumsal;Ankara;İç Anadolu;25.07.2022;Google Ads
+C0145;Zeynep Aslan;Erkek;45;Bireysel;Erzurum;Doğu Anadolu;16.04.2023;Organik
+C0146;Ahmet Aslan;Kadın;40;Kurumsal;Ankara;İç Anadolu;07.11.2022;Referans
+C0147;Burak Arslan;Erkek;31;Kurumsal;Gaziantep;Güneydoğu Anadolu;12.01.2021;Google Ads
+C0148;Serkan Demir;Kadın;36;KOBİ;Diyarbakır;Güneydoğu Anadolu;14.01.2024;Mağaza
+C0149;Ceren Arslan;Erkek;40;KOBİ;Trabzon;Karadeniz;08.04.2023;Mağaza
+C0150;İrem Yılmaz;Kadın;27;Bireysel;Erzurum;Doğu Anadolu;11.07.2023;Google Ads
+C0151;İrem Aydın;Erkek;37;KOBİ;Erzurum;Doğu Anadolu;06.11.2023;Mağaza
+C0152;Zeynep Kılıç;Kadın;37;KOBİ;Bursa;Marmara;13.02.2023;Mağaza
+C0153;Zeynep Kılıç;Erkek;40;Kurumsal;Erzurum;Doğu Anadolu;13.08.2021;Mağaza
+C0154;Kerem Koç;Kadın;54;Kurumsal;Antalya;Akdeniz;24.09.2023;Mağaza
+C0155;İrem Özdemir;Erkek;41;KOBİ;Adana;Akdeniz;27.12.2022;Mağaza
+C0156;Can Özdemir;Kadın;36;KOBİ;Erzurum;Doğu Anadolu;04.11.2023;Google Ads
+C0157;Ayşe Aydın;Erkek;54;Bireysel;İstanbul;Marmara;09.12.2024;Google Ads
+C0158;Burak Şahin;Kadın;54;KOBİ;Konya;İç Anadolu;17.02.2021;Mağaza
+C0159;İrem Doğan;Erkek;49;KOBİ;Ankara;İç Anadolu;02.04.2022;Mağaza
+C0160;Mehmet Öztürk;Kadın;25;Bireysel;Adana;Akdeniz;23.03.2021;Mağaza
+C0161;Burak Çelik;Erkek;50;Kurumsal;İstanbul;Marmara;13.03.2024;Google Ads
+C0162;Ceren Demir;Kadın;27;Kurumsal;Konya;İç Anadolu;12.11.2023;Mağaza
+C0163;Burak Kaya;Erkek;40;KOBİ;Gaziantep;Güneydoğu Anadolu;25.12.2022;Referans
+C0164;Nazlı Doğan;Kadın;30;Bireysel;Gaziantep;Güneydoğu Anadolu;03.11.2024;Google Ads
+C0165;Serkan Kurt;Erkek;31;Bireysel;Konya;İç Anadolu;24.05.2023;Mağaza
+C0166;Ayşe Özdemir;Kadın;55;Kurumsal;Erzurum;Doğu Anadolu;17.09.2024;Referans
+C0167;İrem Doğan;Erkek;45;KOBİ;İstanbul;Marmara;27.05.2021;Sosyal Medya
+C0168;Emre Arslan;Kadın;60;KOBİ;Erzurum;Doğu Anadolu;01.12.2023;Sosyal Medya
+C0169;Mehmet Koç;Erkek;56;Bireysel;Gaziantep;Güneydoğu Anadolu;08.09.2023;Organik
+C0170;Elif Doğan;Kadın;23;KOBİ;Antalya;Akdeniz;17.09.2022;Referans
+C0171;Ayşe Özdemir;Erkek;40;Kurumsal;Diyarbakır;Güneydoğu Anadolu;22.03.2021;Google Ads
+C0172;Kerem Öztürk;Kadın;31;KOBİ;İzmir;Ege;25.01.2022;Organik
+C0173;Kerem Şahin;Erkek;44;Bireysel;Ankara;İç Anadolu;05.07.2024;Organik
+C0174;Gökçe Yılmaz;Kadın;24;Bireysel;Adana;Akdeniz;02.01.2023;Mağaza
+C0175;Selin Yılmaz;Erkek;22;Bireysel;Gaziantep;Güneydoğu Anadolu;06.11.2022;Referans
+C0176;Ece Yıldız;Kadın;47;Kurumsal;Ankara;İç Anadolu;13.01.2021;Referans
+C0177;Burak Koç;Erkek;31;KOBİ;Bursa;Marmara;24.01.2023;Sosyal Medya
+C0178;Derya Aslan;Kadın;44;Bireysel;Konya;İç Anadolu;19.04.2021;Organik
+C0179;Onur Demir;Erkek;24;KOBİ;Diyarbakır;Güneydoğu Anadolu;08.07.2022;Organik
+C0180;Mehmet Kaya;Kadın;50;Bireysel;Erzurum;Doğu Anadolu;02.03.2024;Referans
+C0181;Ece Özdemir;Erkek;60;Kurumsal;Konya;İç Anadolu;10.03.2022;Google Ads
+C0182;Ayşe Yılmaz;Kadın;23;Kurumsal;Bursa;Marmara;16.10.2021;Sosyal Medya
+C0183;Emre Arslan;Erkek;46;Bireysel;İzmir;Ege;27.04.2022;Sosyal Medya
+C0184;Deniz Şahin;Kadın;37;Kurumsal;Konya;İç Anadolu;20.01.2022;Mağaza
+C0185;Selin Aydın;Erkek;31;Kurumsal;Konya;İç Anadolu;04.08.2022;Sosyal Medya
+C0186;Kerem Yıldız;Kadın;54;Kurumsal;İzmir;Ege;17.05.2023;Google Ads
+C0187;Nazlı Şahin;Erkek;50;Bireysel;Antalya;Akdeniz;04.11.2022;Mağaza
+C0188;Nazlı Çelik;Kadın;27;Kurumsal;Antalya;Akdeniz;27.12.2022;Sosyal Medya
+C0189;İrem Çelik;Erkek;52;Kurumsal;Erzurum;Doğu Anadolu;07.04.2022;Organik
+C0190;Serkan Yıldız;Kadın;57;KOBİ;İstanbul;Marmara;16.03.2021;Mağaza
+C0191;Mert Aslan;Erkek;60;KOBİ;Antalya;Akdeniz;05.03.2021;Google Ads
+C0192;Gökçe Doğan;Kadın;55;KOBİ;Diyarbakır;Güneydoğu Anadolu;27.12.2024;Referans
+C0193;Deniz Aydın;Erkek;40;Bireysel;Antalya;Akdeniz;22.06.2023;Google Ads
+C0194;Kerem Aslan;Kadın;36;Bireysel;Trabzon;Karadeniz;20.08.2024;Organik
+C0195;Gökçe Demir;Erkek;41;Bireysel;Samsun;Karadeniz;05.09.2021;Referans
+C0196;Derya Yıldız;Kadın;22;Kurumsal;Erzurum;Doğu Anadolu;24.02.2023;Organik
+C0197;Selin Öztürk;Erkek;46;Bireysel;Trabzon;Karadeniz;12.09.2021;Sosyal Medya
+C0198;Zeynep Kaya;Kadın;50;KOBİ;Diyarbakır;Güneydoğu Anadolu;10.11.2022;Mağaza
+C0199;Serkan Aslan;Erkek;59;KOBİ;İzmir;Ege;09.03.2021;Mağaza
+C0200;Ceren Öztürk;Kadın;57;Bireysel;Konya;İç Anadolu;24.01.2022;Referans
+C0201;İrem Öztürk;Erkek;23;KOBİ;Trabzon;Karadeniz;22.06.2021;Organik
+C0202;Emre Kurt;Kadın;37;Bireysel;Konya;İç Anadolu;02.11.2023;Google Ads
+C0203;Serkan Kılıç;Erkek;24;KOBİ;Diyarbakır;Güneydoğu Anadolu;01.01.2021;Referans
+C0204;Kerem Aydın;Kadın;50;Kurumsal;İstanbul;Marmara;17.12.2022;Sosyal Medya
+C0205;Gökçe Koç;Erkek;41;Bireysel;İzmir;Ege;13.05.2024;Google Ads
+C0206;Ceren Öztürk;Kadın;26;Bireysel;Ankara;İç Anadolu;03.02.2024;Sosyal Medya
+C0207;Mert Aslan;Erkek;29;Bireysel;Bursa;Marmara;08.01.2024;Organik
+C0208;Ece Kaya;Kadın;29;KOBİ;Adana;Akdeniz;03.03.2021;Google Ads
+C0209;İrem Doğan;Erkek;23;KOBİ;Samsun;Karadeniz;12.08.2024;Mağaza
+C0210;Burak Koç;Kadın;52;KOBİ;Trabzon;Karadeniz;04.08.2024;Google Ads
+C0211;Mert Yılmaz;Erkek;52;Kurumsal;İstanbul;Marmara;19.08.2023;Referans
+C0212;Nazlı Aslan;Kadın;50;Bireysel;Samsun;Karadeniz;27.10.2022;Mağaza
+C0213;Serkan Özdemir;Erkek;56;KOBİ;İstanbul;Marmara;26.05.2022;Google Ads
+C0214;Burak Doğan;Kadın;32;Kurumsal;Erzurum;Doğu Anadolu;02.04.2021;Google Ads
+C0215;Elif Öztürk;Erkek;44;KOBİ;Antalya;Akdeniz;20.09.2023;Referans
+C0216;Elif Yılmaz;Kadın;59;Bireysel;İzmir;Ege;13.07.2022;Sosyal Medya
+C0217;Ahmet Koç;Erkek;56;Bireysel;İstanbul;Marmara;21.10.2022;Referans
+C0218;Ayşe Aydın;Kadın;50;KOBİ;Bursa;Marmara;14.05.2023;Google Ads
+C0219;İrem Arslan;Erkek;30;Bireysel;Erzurum;Doğu Anadolu;23.11.2021;Sosyal Medya
+C0220;Mert Öztürk;Kadın;33;Kurumsal;Trabzon;Karadeniz;18.11.2023;Mağaza
+C0221;Derya Aydın;Erkek;55;Kurumsal;Diyarbakır;Güneydoğu Anadolu;02.04.2022;Google Ads
+C0222;Onur Öztürk;Kadın;55;Bireysel;İzmir;Ege;19.09.2022;Referans
+C0223;Elif Yıldız;Erkek;47;Bireysel;Antalya;Akdeniz;07.11.2024;Mağaza
+C0224;Kerem Şahin;Kadın;43;Bireysel;Konya;İç Anadolu;16.11.2024;Referans
+C0225;Elif Öztürk;Erkek;47;Kurumsal;Trabzon;Karadeniz;06.10.2022;Sosyal Medya
+C0226;Selin Çelik;Kadın;50;KOBİ;Samsun;Karadeniz;15.11.2023;Referans
+C0227;Can Şahin;Erkek;55;Bireysel;Bursa;Marmara;05.07.2024;Referans
+C0228;Can Özdemir;Kadın;37;Bireysel;İzmir;Ege;11.06.2021;Mağaza
+C0229;İrem Arslan;Erkek;44;Kurumsal;İzmir;Ege;09.11.2023;Sosyal Medya
+C0230;Nazlı Yıldız;Kadın;56;KOBİ;İstanbul;Marmara;27.09.2022;Referans
+C0231;Nazlı Aslan;Erkek;32;KOBİ;İstanbul;Marmara;18.02.2022;Sosyal Medya
+C0232;Nazlı Yıldız;Kadın;33;Bireysel;Ankara;İç Anadolu;24.01.2024;Sosyal Medya
+C0233;İrem Yılmaz;Erkek;20;Bireysel;Diyarbakır;Güneydoğu Anadolu;14.12.2021;Sosyal Medya
+C0234;Emre Özdemir;Kadın;47;KOBİ;Adana;Akdeniz;04.05.2021;Referans
+C0235;Ceren Özdemir;Erkek;45;KOBİ;Trabzon;Karadeniz;05.01.2024;Sosyal Medya
+C0236;Ece Doğan;Kadın;54;KOBİ;İzmir;Ege;10.11.2024;Mağaza
+C0237;Deniz Aslan;Erkek;37;Bireysel;Adana;Akdeniz;25.04.2024;Mağaza
+C0238;Onur Kaya;Kadın;37;Bireysel;Konya;İç Anadolu;17.05.2021;Mağaza
+C0239;Derya Yılmaz;Erkek;37;KOBİ;İzmir;Ege;18.04.2023;Organik
+C0240;Elif Koç;Kadın;52;Bireysel;Antalya;Akdeniz;19.08.2024;Organik
+C0241;Ece Aslan;Erkek;36;Bireysel;Trabzon;Karadeniz;05.10.2023;Sosyal Medya
+C0242;Ceren Koç;Kadın;34;KOBİ;Antalya;Akdeniz;17.01.2022;Mağaza
+C0243;Mehmet Yıldız;Erkek;40;KOBİ;İzmir;Ege;04.05.2023;Mağaza
+C0244;Mehmet Kurt;Kadın;49;Bireysel;Erzurum;Doğu Anadolu;08.11.2022;Google Ads
+C0245;Deniz Şahin;Erkek;37;KOBİ;Diyarbakır;Güneydoğu Anadolu;23.06.2023;Google Ads
+C0246;Mehmet Kurt;Kadın;53;KOBİ;Trabzon;Karadeniz;17.09.2024;Referans
+C0247;Kerem Arslan;Erkek;43;Kurumsal;Antalya;Akdeniz;24.01.2022;Organik
+C0248;Derya Demir;Kadın;53;KOBİ;Bursa;Marmara;08.06.2023;Google Ads
+C0249;Zeynep Kılıç;Erkek;23;Kurumsal;İstanbul;Marmara;23.10.2024;Referans
+C0250;Mehmet Özdemir;Kadın;35;Kurumsal;Erzurum;Doğu Anadolu;18.03.2023;Google Ads
+C0251;Mehmet Demir;Erkek;43;Kurumsal;İzmir;Ege;16.04.2024;Mağaza
+C0252;Nazlı Kılıç;Kadın;40;KOBİ;Trabzon;Karadeniz;25.02.2022;Organik
+C0253;Ahmet Aydın;Erkek;52;Bireysel;Gaziantep;Güneydoğu Anadolu;27.04.2021;Referans
+C0254;Ece Kaya;Kadın;20;Bireysel;Samsun;Karadeniz;11.05.2022;Sosyal Medya
+C0255;Deniz Kaya;Erkek;57;Bireysel;İstanbul;Marmara;27.12.2023;Google Ads
+C0256;İrem Çelik;Kadın;50;KOBİ;Gaziantep;Güneydoğu Anadolu;27.08.2021;Google Ads
+C0257;Ahmet Kılıç;Erkek;42;Bireysel;Konya;İç Anadolu;11.09.2022;Mağaza
+C0258;Ayşe Kurt;Kadın;27;Kurumsal;Gaziantep;Güneydoğu Anadolu;06.02.2021;Referans
+C0259;Can Çelik;Erkek;37;Bireysel;Erzurum;Doğu Anadolu;24.03.2024;Google Ads
+C0260;Selin Kaya;Kadın;59;Kurumsal;İzmir;Ege;12.06.2022;Mağaza
+C0261;Gökçe Yıldız;Erkek;34;KOBİ;Trabzon;Karadeniz;25.07.2022;Sosyal Medya
+C0262;Ahmet Özdemir;Kadın;47;Kurumsal;Antalya;Akdeniz;20.09.2024;Organik
+C0263;Serkan Yıldız;Erkek;51;Kurumsal;Trabzon;Karadeniz;13.10.2021;Sosyal Medya
+C0264;Onur Demir;Kadın;60;KOBİ;Diyarbakır;Güneydoğu Anadolu;10.02.2022;Organik
+C0265;Kerem Kılıç;Erkek;43;KOBİ;Erzurum;Doğu Anadolu;02.10.2023;Organik
+C0266;Can Çelik;Kadın;44;KOBİ;İzmir;Ege;14.01.2024;Google Ads
+C0267;Derya Kaya;Erkek;37;Bireysel;Erzurum;Doğu Anadolu;09.03.2021;Referans
+C0268;Can Aydın;Kadın;50;KOBİ;Bursa;Marmara;24.01.2024;Google Ads
+C0269;Emre Yıldız;Erkek;28;Bireysel;Antalya;Akdeniz;13.11.2023;Organik
+C0270;Ayşe Kurt;Kadın;54;KOBİ;Samsun;Karadeniz;23.05.2021;Organik
+C0271;Emre Demir;Erkek;55;KOBİ;İstanbul;Marmara;09.06.2024;Referans
+C0272;Kerem Kurt;Kadın;59;Kurumsal;Gaziantep;Güneydoğu Anadolu;17.06.2024;Referans
+C0273;İrem Arslan;Erkek;59;Kurumsal;Konya;İç Anadolu;03.05.2024;Google Ads
+C0274;Kerem Yıldız;Kadın;40;Bireysel;Erzurum;Doğu Anadolu;08.09.2024;Organik
+C0275;Mehmet Koç;Erkek;33;Bireysel;Antalya;Akdeniz;12.08.2024;Organik
+C0276;Zeynep Özdemir;Kadın;23;Kurumsal;Gaziantep;Güneydoğu Anadolu;23.02.2022;Google Ads
+C0277;Nazlı Şahin;Erkek;32;Bireysel;Bursa;Marmara;10.03.2024;Google Ads
+C0278;Ece Aydın;Kadın;52;Bireysel;İzmir;Ege;13.08.2021;Sosyal Medya
+C0279;Ayşe Arslan;Erkek;22;KOBİ;Bursa;Marmara;14.01.2024;Sosyal Medya
+C0280;Gökçe Yıldız;Kadın;24;Bireysel;Diyarbakır;Güneydoğu Anadolu;21.07.2023;Google Ads
+C0281;Ahmet Demir;Erkek;37;Bireysel;Erzurum;Doğu Anadolu;14.08.2022;Organik
+C0282;Deniz Yılmaz;Kadın;20;Kurumsal;Antalya;Akdeniz;22.08.2024;Google Ads
+C0283;Ece Yıldız;Erkek;41;KOBİ;Trabzon;Karadeniz;13.07.2023;Mağaza
+C0284;Gökçe Şahin;Kadın;59;Bireysel;İstanbul;Marmara;25.07.2021;Google Ads
+C0285;Deniz Demir;Erkek;27;Kurumsal;İstanbul;Marmara;07.07.2023;Sosyal Medya
+C0286;Ayşe Kaya;Kadın;37;Bireysel;Bursa;Marmara;04.05.2021;Mağaza
+C0287;Selin Arslan;Erkek;40;KOBİ;İzmir;Ege;06.08.2024;Organik
+C0288;Onur Demir;Kadın;44;Kurumsal;Adana;Akdeniz;03.06.2023;Sosyal Medya
+C0289;Nazlı Kılıç;Erkek;48;KOBİ;Erzurum;Doğu Anadolu;07.10.2023;Organik
+C0290;Elif Özdemir;Kadın;48;Bireysel;Diyarbakır;Güneydoğu Anadolu;05.05.2022;Referans
+C0291;Emre Demir;Erkek;58;KOBİ;Diyarbakır;Güneydoğu Anadolu;12.11.2023;Organik
+C0292;Selin Demir;Kadın;35;Bireysel;Antalya;Akdeniz;11.09.2024;Google Ads
+C0293;Gökçe Kılıç;Erkek;47;Kurumsal;Konya;İç Anadolu;24.03.2024;Mağaza
+C0294;Nazlı Koç;Kadın;43;Bireysel;Trabzon;Karadeniz;08.01.2022;Referans
+C0295;Ece Kılıç;Erkek;45;KOBİ;Trabzon;Karadeniz;24.09.2021;Organik
+C0296;Ayşe Kurt;Kadın;56;KOBİ;Erzurum;Doğu Anadolu;18.05.2022;Mağaza
+C0297;İrem Aydın;Erkek;40;Bireysel;Trabzon;Karadeniz;19.03.2022;Organik
+C0298;Burak Arslan;Kadın;39;KOBİ;Diyarbakır;Güneydoğu Anadolu;14.01.2023;Google Ads
+C0299;Zeynep Koç;Erkek;33;Bireysel;Trabzon;Karadeniz;10.12.2023;Mağaza
+C0300;Onur Aydın;Kadın;31;Bireysel;Gaziantep;Güneydoğu Anadolu;04.05.2024;Organik
+C0301;Zeynep Aydın;Erkek;54;KOBİ;Adana;Akdeniz;02.06.2024;Mağaza
+C0302;Gökçe Demir;Kadın;21;KOBİ;Trabzon;Karadeniz;23.04.2023;Sosyal Medya
+C0303;Can Doğan;Erkek;37;KOBİ;Antalya;Akdeniz;10.06.2022;Referans
+C0304;İrem Kurt;Kadın;24;Kurumsal;Gaziantep;Güneydoğu Anadolu;21.04.2021;Organik
+C0305;İrem Yıldız;Erkek;46;KOBİ;Samsun;Karadeniz;15.02.2023;Mağaza
+C0306;Mehmet Öztürk;Kadın;38;Bireysel;Antalya;Akdeniz;13.03.2022;Google Ads
+C0307;Derya Çelik;Erkek;27;Kurumsal;Trabzon;Karadeniz;21.09.2022;Organik
+C0308;Deniz Özdemir;Kadın;34;Kurumsal;Samsun;Karadeniz;07.03.2024;Referans
+C0309;Nazlı Özdemir;Erkek;53;KOBİ;İzmir;Ege;06.10.2023;Sosyal Medya
+C0310;Derya Çelik;Kadın;46;Kurumsal;Diyarbakır;Güneydoğu Anadolu;06.06.2023;Google Ads
+C0311;İrem Kaya;Erkek;44;Kurumsal;Konya;İç Anadolu;06.08.2022;Referans
+C0312;Burak Kaya;Kadın;32;Bireysel;Trabzon;Karadeniz;13.11.2023;Google Ads
+C0313;Serkan Koç;Erkek;30;Kurumsal;Ankara;İç Anadolu;19.12.2023;Sosyal Medya
+C0314;Ceren Aydın;Kadın;36;Kurumsal;Ankara;İç Anadolu;11.07.2023;Referans
+C0315;Derya Aydın;Erkek;35;KOBİ;Konya;İç Anadolu;17.05.2023;Referans
+C0316;Can Şahin;Kadın;40;Bireysel;Gaziantep;Güneydoğu Anadolu;26.04.2021;Google Ads
+C0317;Mehmet Aydın;Erkek;49;Bireysel;Erzurum;Doğu Anadolu;27.12.2024;Referans
+C0318;Ayşe Aslan;Kadın;54;Bireysel;Antalya;Akdeniz;02.03.2024;Mağaza
+C0319;Emre Şahin;Erkek;55;Bireysel;Antalya;Akdeniz;18.04.2021;Sosyal Medya
+C0320;İrem Demir;Kadın;29;KOBİ;Trabzon;Karadeniz;10.01.2022;Google Ads
+C0321;Kerem Öztürk;Erkek;59;Kurumsal;Bursa;Marmara;25.08.2023;Mağaza
+C0322;Selin Koç;Kadın;27;Kurumsal;Samsun;Karadeniz;04.08.2022;Sosyal Medya
+C0323;Can Kılıç;Erkek;23;KOBİ;Adana;Akdeniz;13.07.2023;Referans
+C0324;Mehmet Özdemir;Kadın;38;Bireysel;Gaziantep;Güneydoğu Anadolu;15.05.2024;Google Ads
+C0325;Can Kaya;Erkek;50;Bireysel;Samsun;Karadeniz;14.11.2021;Google Ads
+C0326;Burak Demir;Kadın;34;Bireysel;Trabzon;Karadeniz;19.12.2024;Google Ads
+C0327;Gökçe Demir;Erkek;30;Kurumsal;Diyarbakır;Güneydoğu Anadolu;15.03.2021;Organik
+C0328;Elif Özdemir;Kadın;36;KOBİ;Trabzon;Karadeniz;04.02.2023;Organik
+C0329;Gökçe Kaya;Erkek;29;Kurumsal;Trabzon;Karadeniz;11.09.2021;Google Ads
+C0330;Burak Koç;Kadın;20;Bireysel;Samsun;Karadeniz;05.08.2024;Google Ads
+C0331;Nazlı Yıldız;Erkek;40;KOBİ;Adana;Akdeniz;25.09.2022;Organik
+C0332;Elif Özdemir;Kadın;51;KOBİ;Samsun;Karadeniz;11.11.2022;Organik
+C0333;Mert Aslan;Erkek;28;Bireysel;Adana;Akdeniz;17.03.2021;Referans
+C0334;Onur Yılmaz;Kadın;35;KOBİ;Konya;İç Anadolu;14.08.2024;Mağaza
+C0335;Mert Kurt;Erkek;45;Bireysel;İzmir;Ege;23.10.2021;Mağaza
+C0336;Serkan Aydın;Kadın;42;Kurumsal;İzmir;Ege;15.08.2023;Mağaza
+C0337;Ece Koç;Erkek;48;KOBİ;Trabzon;Karadeniz;24.11.2023;Google Ads
+C0338;İrem Aslan;Kadın;32;Bireysel;İzmir;Ege;16.02.2021;Google Ads
+C0339;Ahmet Arslan;Erkek;59;Kurumsal;Erzurum;Doğu Anadolu;15.08.2024;Organik
+C0340;Derya Yılmaz;Kadın;20;KOBİ;Trabzon;Karadeniz;24.08.2023;Referans
+C0341;Emre Doğan;Erkek;46;Kurumsal;Ankara;İç Anadolu;18.06.2024;Sosyal Medya
+C0342;Derya Aydın;Kadın;58;Bireysel;Ankara;İç Anadolu;22.10.2024;Sosyal Medya
+C0343;Ece Öztürk;Erkek;58;Kurumsal;Diyarbakır;Güneydoğu Anadolu;07.04.2021;Organik
+C0344;Kerem Aydın;Kadın;26;Bireysel;Diyarbakır;Güneydoğu Anadolu;01.05.2024;Organik
+C0345;Mert Yılmaz;Erkek;46;Kurumsal;Diyarbakır;Güneydoğu Anadolu;25.12.2023;Organik
+C0346;Ceren Özdemir;Kadın;49;KOBİ;Samsun;Karadeniz;13.03.2023;Organik
+C0347;Mehmet Arslan;Erkek;50;KOBİ;İzmir;Ege;23.05.2023;Mağaza
+C0348;Ece Kılıç;Kadın;40;Kurumsal;Ankara;İç Anadolu;20.11.2022;Organik
+C0349;Selin Şahin;Erkek;25;Bireysel;Erzurum;Doğu Anadolu;10.04.2023;Referans
+C0350;Derya Kılıç;Kadın;49;Kurumsal;Konya;İç Anadolu;12.11.2023;Mağaza
+C0351;Deniz Aslan;Erkek;25;Bireysel;Gaziantep;Güneydoğu Anadolu;09.12.2024;Sosyal Medya
+C0352;Emre Kurt;Kadın;43;Bireysel;Ankara;İç Anadolu;18.11.2021;Google Ads
+C0353;Onur Yıldız;Erkek;36;Bireysel;Antalya;Akdeniz;19.10.2023;Organik
+C0354;Onur Çelik;Kadın;41;Kurumsal;Erzurum;Doğu Anadolu;22.04.2021;Mağaza
+C0355;Ahmet Öztürk;Erkek;36;Kurumsal;Gaziantep;Güneydoğu Anadolu;22.11.2024;Sosyal Medya
+C0356;Kerem Şahin;Kadın;20;Bireysel;Bursa;Marmara;25.08.2021;Sosyal Medya
+C0357;Emre Öztürk;Erkek;36;Bireysel;Konya;İç Anadolu;13.12.2024;Sosyal Medya
+C0358;Ceren Şahin;Kadın;58;Bireysel;Gaziantep;Güneydoğu Anadolu;10.08.2021;Sosyal Medya
+C0359;Ceren Arslan;Erkek;30;Bireysel;İzmir;Ege;20.10.2024;Google Ads
+C0360;Deniz Yıldız;Kadın;29;Kurumsal;İstanbul;Marmara;05.07.2023;Organik
+C0361;Gökçe Aydın;Erkek;59;Kurumsal;Bursa;Marmara;23.07.2024;Referans
+C0362;Deniz Yılmaz;Kadın;34;Bireysel;Gaziantep;Güneydoğu Anadolu;02.04.2021;Sosyal Medya
+C0363;Mert Yıldız;Erkek;42;Bireysel;Antalya;Akdeniz;16.12.2023;Sosyal Medya
+C0364;Ece Yılmaz;Kadın;25;Bireysel;Diyarbakır;Güneydoğu Anadolu;04.11.2023;Google Ads
+C0365;Burak Doğan;Erkek;32;KOBİ;Ankara;İç Anadolu;26.10.2024;Referans
+C0366;Onur Aslan;Kadın;56;Bireysel;Ankara;İç Anadolu;21.05.2021;Mağaza
+C0367;Ahmet Aydın;Erkek;43;Kurumsal;Konya;İç Anadolu;27.04.2023;Sosyal Medya
+C0368;Ahmet Öztürk;Kadın;33;Kurumsal;Ankara;İç Anadolu;25.03.2023;Referans
+C0369;Ceren Öztürk;Erkek;43;Kurumsal;İstanbul;Marmara;23.06.2022;Organik
+C0370;Mehmet Aydın;Kadın;27;KOBİ;Konya;İç Anadolu;08.05.2022;Referans
+C0371;Elif Öztürk;Erkek;35;Kurumsal;Adana;Akdeniz;16.01.2024;Organik
+C0372;Serkan Kılıç;Kadın;51;KOBİ;Diyarbakır;Güneydoğu Anadolu;25.07.2023;Google Ads
+C0373;Zeynep Öztürk;Erkek;25;Bireysel;Ankara;İç Anadolu;07.11.2021;Mağaza
+C0374;Ece Koç;Kadın;38;Kurumsal;İstanbul;Marmara;19.01.2021;Google Ads
+C0375;Emre Koç;Erkek;59;Bireysel;İstanbul;Marmara;10.07.2024;Sosyal Medya
+C0376;Elif Aslan;Kadın;52;Kurumsal;İstanbul;Marmara;02.03.2021;Google Ads
+C0377;Gökçe Çelik;Erkek;38;KOBİ;Antalya;Akdeniz;14.03.2021;Mağaza
+C0378;Mehmet Arslan;Kadın;44;Bireysel;Adana;Akdeniz;21.01.2023;Mağaza
+C0379;Kerem Özdemir;Erkek;47;KOBİ;Erzurum;Doğu Anadolu;23.06.2023;Organik
+C0380;Mert Aydın;Kadın;59;KOBİ;Adana;Akdeniz;03.02.2022;Mağaza
+C0381;Ece Arslan;Erkek;24;Bireysel;Gaziantep;Güneydoğu Anadolu;12.02.2022;Mağaza
+C0382;Mert Koç;Kadın;27;Kurumsal;Samsun;Karadeniz;06.11.2024;Referans
+C0383;Burak Kılıç;Erkek;59;KOBİ;Samsun;Karadeniz;04.11.2024;Organik
+C0384;Gökçe Koç;Kadın;34;Kurumsal;İstanbul;Marmara;12.09.2023;Organik
+C0385;Selin Kurt;Erkek;35;Kurumsal;Antalya;Akdeniz;04.10.2022;Sosyal Medya
+C0386;Mert Şahin;Kadın;42;Kurumsal;Konya;İç Anadolu;05.07.2021;Google Ads
+C0387;Mehmet Öztürk;Erkek;32;Bireysel;Bursa;Marmara;18.01.2022;Organik
+C0388;Elif Doğan;Kadın;59;Kurumsal;Adana;Akdeniz;08.06.2024;Organik
+C0389;Deniz Doğan;Erkek;55;Kurumsal;Samsun;Karadeniz;24.09.2024;Referans
+C0390;Selin Şahin;Kadın;38;Bireysel;Bursa;Marmara;03.04.2021;Google Ads
+C0391;Selin Doğan;Erkek;31;Kurumsal;Ankara;İç Anadolu;07.07.2023;Mağaza
+C0392;Can Yılmaz;Kadın;34;KOBİ;Ankara;İç Anadolu;03.01.2021;Mağaza
+C0393;Burak Kurt;Erkek;48;Kurumsal;Diyarbakır;Güneydoğu Anadolu;12.05.2023;Google Ads
+C0394;Ceren Koç;Kadın;25;KOBİ;Gaziantep;Güneydoğu Anadolu;14.11.2021;Referans
+C0395;Elif Demir;Erkek;37;Kurumsal;İstanbul;Marmara;18.05.2024;Sosyal Medya
+C0396;Nazlı Özdemir;Kadın;56;Bireysel;Gaziantep;Güneydoğu Anadolu;04.02.2022;Mağaza
+C0397;Selin Şahin;Erkek;22;Bireysel;Konya;İç Anadolu;24.01.2022;Referans
+C0398;Burak Özdemir;Kadın;34;Kurumsal;Samsun;Karadeniz;08.12.2023;Organik
+C0399;İrem Şahin;Erkek;23;KOBİ;İstanbul;Marmara;04.04.2023;Referans
+C0400;Derya Yılmaz;Kadın;35;Kurumsal;İzmir;Ege;10.08.2023;Google Ads
+C0401;Deniz Arslan;Erkek;21;Kurumsal;Bursa;Marmara;08.11.2021;Sosyal Medya
+C0402;Emre Demir;Kadın;24;Bireysel;İstanbul;Marmara;08.01.2024;Google Ads
+C0403;Mert Arslan;Erkek;23;Bireysel;İstanbul;Marmara;01.05.2023;Organik
+C0404;Mert Koç;Kadın;32;KOBİ;Diyarbakır;Güneydoğu Anadolu;05.03.2023;Google Ads
+C0405;Ahmet Demir;Erkek;20;Kurumsal;Ankara;İç Anadolu;05.12.2021;Sosyal Medya
+C0406;Derya Demir;Kadın;27;Bireysel;Konya;İç Anadolu;16.06.2021;Sosyal Medya
+C0407;Zeynep Öztürk;Erkek;47;Bireysel;Adana;Akdeniz;27.09.2024;Organik
+C0408;Nazlı Kaya;Kadın;44;Bireysel;İstanbul;Marmara;06.06.2022;Mağaza
+C0409;Selin Koç;Erkek;31;Bireysel;Konya;İç Anadolu;13.01.2021;Referans
+C0410;Elif Doğan;Kadın;25;KOBİ;İzmir;Ege;15.05.2022;Sosyal Medya
+C0411;Nazlı Doğan;Erkek;43;KOBİ;Bursa;Marmara;05.09.2023;Referans
+C0412;İrem Aydın;Kadın;36;Kurumsal;Antalya;Akdeniz;07.01.2021;Referans
+C0413;Deniz Öztürk;Erkek;35;Bireysel;Ankara;İç Anadolu;07.07.2021;Mağaza
+C0414;Derya Demir;Kadın;23;Bireysel;Diyarbakır;Güneydoğu Anadolu;09.02.2024;Mağaza
+C0415;Nazlı Kılıç;Erkek;49;KOBİ;Samsun;Karadeniz;07.10.2022;Sosyal Medya
+C0416;İrem Kurt;Kadın;27;Bireysel;Erzurum;Doğu Anadolu;19.03.2022;Mağaza
+C0417;Ceren Özdemir;Erkek;41;KOBİ;Diyarbakır;Güneydoğu Anadolu;26.06.2021;Organik
+C0418;Zeynep Yılmaz;Kadın;60;Bireysel;Samsun;Karadeniz;07.06.2022;Mağaza
+C0419;Emre Demir;Erkek;26;Bireysel;İzmir;Ege;17.11.2022;Google Ads
+C0420;Ahmet Yılmaz;Kadın;35;Bireysel;Antalya;Akdeniz;04.07.2021;Google Ads
+C0421;Onur Arslan;Erkek;59;Bireysel;Samsun;Karadeniz;08.12.2024;Sosyal Medya
+C0422;Mert Çelik;Kadın;31;KOBİ;Antalya;Akdeniz;05.12.2022;Organik
+C0423;Kerem Arslan;Erkek;26;KOBİ;Ankara;İç Anadolu;15.07.2024;Google Ads
+C0424;Serkan Çelik;Kadın;25;Kurumsal;Diyarbakır;Güneydoğu Anadolu;09.02.2024;Mağaza
+C0425;Elif Kılıç;Erkek;27;Kurumsal;Samsun;Karadeniz;07.04.2021;Sosyal Medya
+C0426;Can Koç;Kadın;38;KOBİ;Diyarbakır;Güneydoğu Anadolu;10.03.2022;Organik
+C0427;Burak Demir;Erkek;41;Kurumsal;Samsun;Karadeniz;10.12.2022;Google Ads
+C0428;Mehmet Arslan;Kadın;26;Bireysel;Gaziantep;Güneydoğu Anadolu;13.09.2023;Google Ads
+C0429;Selin Doğan;Erkek;40;Bireysel;Samsun;Karadeniz;04.03.2022;Mağaza
+C0430;Ceren Aydın;Kadın;28;Kurumsal;Gaziantep;Güneydoğu Anadolu;19.04.2023;Organik
+C0431;Kerem Çelik;Erkek;43;KOBİ;Ankara;İç Anadolu;17.04.2021;Referans
+C0432;Ceren Kaya;Kadın;36;KOBİ;Konya;İç Anadolu;21.10.2023;Organik
+C0433;Derya Çelik;Erkek;22;Kurumsal;Konya;İç Anadolu;08.10.2021;Google Ads
+C0434;Derya Çelik;Kadın;24;Kurumsal;İstanbul;Marmara;12.06.2021;Mağaza
+C0435;Derya Doğan;Erkek;44;Bireysel;Diyarbakır;Güneydoğu Anadolu;09.05.2023;Google Ads
+C0436;Zeynep Doğan;Kadın;37;Bireysel;Diyarbakır;Güneydoğu Anadolu;11.07.2021;Google Ads
+C0437;Ahmet Özdemir;Erkek;44;Kurumsal;Samsun;Karadeniz;26.09.2024;Organik
+C0438;Ahmet Kılıç;Kadın;33;Bireysel;Adana;Akdeniz;19.06.2024;Referans
+C0439;Nazlı Şahin;Erkek;28;Bireysel;Adana;Akdeniz;01.04.2024;Sosyal Medya
+C0440;Gökçe Koç;Kadın;34;KOBİ;Trabzon;Karadeniz;04.05.2022;Google Ads
+C0441;İrem Aydın;Erkek;40;Kurumsal;Antalya;Akdeniz;12.01.2021;Mağaza
+C0442;Mehmet Koç;Kadın;57;Bireysel;Trabzon;Karadeniz;22.03.2024;Mağaza
+C0443;Selin Kılıç;Erkek;30;Bireysel;Adana;Akdeniz;03.04.2023;Google Ads
+C0444;Gökçe Demir;Kadın;59;KOBİ;Trabzon;Karadeniz;15.03.2023;Google Ads
+C0445;Ahmet Şahin;Erkek;48;KOBİ;İstanbul;Marmara;21.09.2023;Sosyal Medya
+C0446;Zeynep Öztürk;Kadın;60;Bireysel;Gaziantep;Güneydoğu Anadolu;18.12.2023;Google Ads
+C0447;Mert Şahin;Erkek;37;Kurumsal;Adana;Akdeniz;22.09.2023;Sosyal Medya
+C0448;Burak Aslan;Kadın;37;Kurumsal;Diyarbakır;Güneydoğu Anadolu;23.04.2023;Organik
+C0449;Nazlı Kurt;Erkek;48;KOBİ;Diyarbakır;Güneydoğu Anadolu;02.03.2023;Google Ads
+C0450;Nazlı Özdemir;Kadın;44;Kurumsal;İstanbul;Marmara;06.07.2021;Referans
+C0451;Nazlı Çelik;Erkek;27;KOBİ;Erzurum;Doğu Anadolu;14.12.2022;Sosyal Medya
+C0452;Can Öztürk;Kadın;31;Kurumsal;Ankara;İç Anadolu;22.08.2024;Sosyal Medya
+C0453;Elif Yılmaz;Erkek;60;Kurumsal;İzmir;Ege;21.11.2021;Sosyal Medya
+C0454;Onur Doğan;Kadın;58;KOBİ;Erzurum;Doğu Anadolu;04.09.2022;Google Ads
+C0455;Selin Aydın;Erkek;56;Bireysel;İstanbul;Marmara;15.11.2022;Sosyal Medya
+C0456;Selin Şahin;Kadın;29;KOBİ;Antalya;Akdeniz;09.05.2024;Organik
+C0457;Ahmet Demir;Erkek;57;Kurumsal;Trabzon;Karadeniz;02.02.2023;Sosyal Medya
+C0458;Mehmet Yılmaz;Kadın;51;Bireysel;Gaziantep;Güneydoğu Anadolu;05.05.2022;Mağaza
+C0459;Ahmet Öztürk;Erkek;42;KOBİ;Trabzon;Karadeniz;20.07.2023;Google Ads
+C0460;Derya Kurt;Kadın;42;KOBİ;Konya;İç Anadolu;12.12.2021;Google Ads
+C0461;Ceren Özdemir;Erkek;44;Kurumsal;Gaziantep;Güneydoğu Anadolu;13.07.2024;Referans
+C0462;Ahmet Arslan;Kadın;44;Bireysel;Samsun;Karadeniz;15.09.2022;Mağaza
+C0463;Onur Kurt;Erkek;25;KOBİ;İzmir;Ege;23.06.2021;Mağaza
+C0464;Burak Yılmaz;Kadın;20;KOBİ;Konya;İç Anadolu;18.05.2022;Organik
+C0465;Derya Aydın;Erkek;57;Bireysel;İstanbul;Marmara;04.04.2024;Google Ads
+C0466;Burak Kılıç;Kadın;23;Kurumsal;Antalya;Akdeniz;22.12.2021;Google Ads
+C0467;Derya Yılmaz;Erkek;34;Kurumsal;İstanbul;Marmara;06.10.2023;Mağaza
+C0468;Gökçe Özdemir;Kadın;20;Kurumsal;İstanbul;Marmara;01.03.2024;Mağaza
+C0469;Mehmet Aydın;Erkek;50;Bireysel;Konya;İç Anadolu;16.09.2024;Mağaza
+C0470;Elif Demir;Kadın;31;KOBİ;Adana;Akdeniz;15.05.2023;Organik
+C0471;Ahmet Aslan;Erkek;55;Kurumsal;Gaziantep;Güneydoğu Anadolu;27.04.2021;Sosyal Medya
+C0472;Selin Arslan;Kadın;26;Bireysel;Konya;İç Anadolu;14.04.2021;Organik
+C0473;Gökçe Kaya;Erkek;32;KOBİ;Trabzon;Karadeniz;23.05.2024;Sosyal Medya
+C0474;Gökçe Kurt;Kadın;56;Bireysel;Samsun;Karadeniz;06.06.2024;Sosyal Medya
+C0475;Kerem Şahin;Erkek;57;Bireysel;Erzurum;Doğu Anadolu;25.05.2021;Sosyal Medya
+C0476;Ece Aydın;Kadın;34;KOBİ;Adana;Akdeniz;20.04.2023;Organik
+C0477;Zeynep Yılmaz;Erkek;52;Kurumsal;Adana;Akdeniz;25.05.2023;Sosyal Medya
+C0478;Derya Koç;Kadın;27;KOBİ;Antalya;Akdeniz;24.04.2023;Mağaza
+C0479;Mehmet Aslan;Erkek;49;Bireysel;Antalya;Akdeniz;27.01.2022;Sosyal Medya
+C0480;Mehmet Şahin;Kadın;32;Kurumsal;Bursa;Marmara;26.10.2024;Referans
+C0481;Burak Demir;Erkek;23;Bireysel;Konya;İç Anadolu;17.10.2023;Google Ads
+C0482;Mert Özdemir;Kadın;20;Kurumsal;İzmir;Ege;13.04.2022;Organik
+C0483;Selin Şahin;Erkek;38;Kurumsal;Gaziantep;Güneydoğu Anadolu;15.05.2021;Google Ads
+C0484;Mehmet Kılıç;Kadın;54;Kurumsal;İzmir;Ege;10.12.2022;Mağaza
+C0485;İrem Öztürk;Erkek;51;KOBİ;Adana;Akdeniz;21.07.2023;Referans
+C0486;Ceren Arslan;Kadın;27;Bireysel;Gaziantep;Güneydoğu Anadolu;01.07.2021;Mağaza
+C0487;İrem Kurt;Erkek;42;KOBİ;Erzurum;Doğu Anadolu;23.04.2021;Mağaza
+C0488;Zeynep Aydın;Kadın;47;KOBİ;Adana;Akdeniz;13.04.2023;Sosyal Medya
+C0489;Emre Şahin;Erkek;28;Kurumsal;Ankara;İç Anadolu;12.12.2024;Organik
+C0490;Selin Kılıç;Kadın;24;KOBİ;Erzurum;Doğu Anadolu;05.10.2021;Sosyal Medya
+C0491;Onur Arslan;Erkek;48;KOBİ;Adana;Akdeniz;15.04.2024;Mağaza
+C0492;Can Arslan;Kadın;34;Bireysel;Erzurum;Doğu Anadolu;15.07.2024;Sosyal Medya
+C0493;Ayşe Aslan;Erkek;35;KOBİ;Bursa;Marmara;14.11.2024;Sosyal Medya
+C0494;Serkan Kurt;Kadın;36;Kurumsal;Antalya;Akdeniz;07.02.2024;Sosyal Medya
+C0495;Ece Yıldız;Erkek;38;Bireysel;İstanbul;Marmara;11.01.2024;Mağaza
+C0496;Onur Demir;Kadın;43;Kurumsal;İzmir;Ege;01.08.2021;Mağaza
+C0497;Ayşe Özdemir;Erkek;25;KOBİ;Samsun;Karadeniz;09.02.2024;Organik
+C0498;Kerem Özdemir;Kadın;59;Kurumsal;Antalya;Akdeniz;14.05.2021;Sosyal Medya
+C0499;Mehmet Arslan;Erkek;45;Kurumsal;Samsun;Karadeniz;23.09.2021;Mağaza
+C0500;Onur Arslan;Kadın;60;KOBİ;Erzurum;Doğu Anadolu;06.12.2023;Google Ads

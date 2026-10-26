@@ -1,0 +1,13 @@
+﻿MagazaID	MagazaAdi	Sehir	Bolge	MagazaTipi	AcilisTarihi	MetreKare
+M01	İstanbul Mağazası	İstanbul	Marmara	Büyük	01.01.2018	1810
+M02	Ankara Mağazası	Ankara	İç Anadolu	Orta	02.02.2019	1150
+M03	İzmir Mağazası	İzmir	Ege	Küçük	03.03.2020	730
+M04	Bursa Mağazası	Bursa	Marmara	Büyük	04.04.2021	1880
+M05	Antalya Mağazası	Antalya	Akdeniz	Orta	05.05.2022	1110
+M06	Adana Mağazası	Adana	Akdeniz	Küçük	06.06.2018	680
+M07	Konya Mağazası	Konya	İç Anadolu	Büyük	07.07.2019	1890
+M08	Samsun Mağazası	Samsun	Karadeniz	Orta	08.08.2020	1190
+M09	Trabzon Mağazası	Trabzon	Karadeniz	Küçük	09.09.2021	730
+M10	Gaziantep Mağazası	Gaziantep	Güneydoğu Anadolu	Büyük	10.10.2022	1860
+M11	Diyarbakır Mağazası	Diyarbakır	Güneydoğu Anadolu	Orta	11.11.2018	1190
+M12	Erzurum Mağazası	Erzurum	Doğu Anadolu	Küçük	12.12.2019	730

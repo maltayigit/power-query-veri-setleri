@@ -1,0 +1,6 @@
+# Veri dosyalarını bayt bayt korunsun
+*.xlsx binary
+*.mdb binary
+*.csv -text
+*.txt -text
+*.sql -text linguist-detectable=false

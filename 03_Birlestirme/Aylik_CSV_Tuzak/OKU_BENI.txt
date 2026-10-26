@@ -1,0 +1,2 @@
+Bu dosya Aylik_CSV klasörüne kopyalanırsa Klasörden birleştirme hata verir.
+Ders 3'teki 'Uzantıya göre filtrele' konusunu göstermek için kullanın.
